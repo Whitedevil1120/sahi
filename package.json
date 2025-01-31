@@ -1,0 +1,16 @@
+{
+  "name": "ssc1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "nodemon": "^3.1.9"
+  }
+}
